@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+
+logs/*.log
+
+*.db
+
+data/processed/
+data/rejected/
+
+reports/*.json
+reports/*.txt
