@@ -11,7 +11,7 @@ def generate_sales_data(num_records=100):
     customers = [
         "Rahul Sharma",
         "Priya Patil",
-        "Amit Kumar",
+        "Aman Kumar",
         "Sneha Singh",
         "Rohan Verma",
         "Anjali Deshmukh"
